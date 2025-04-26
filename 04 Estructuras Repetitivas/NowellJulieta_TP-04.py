@@ -23,7 +23,7 @@ for numero in range(inicio + 1 ,fin):
     suma += numero 
 print(f"La suma de los números entre {numero1} y {numero2} (excluyéndolos) es: {suma}")
 
-EJERCICIO 4
+#EJERCICIO 4
 total = 0
 while True:
     numero = int(input("Ingresa un número (Ingresa 0 para terminar): "))
